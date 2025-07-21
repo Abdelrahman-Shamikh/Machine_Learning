@@ -3,7 +3,7 @@
 <!-- HEADER STYLE: CLASSIC -->
 <div align="center">
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Artificial_Intelligence_Logo.svg" width="150" alt="AI Logo" />
+<img src="https://static.vecteezy.com/system/resources/previews/013/899/429/original/machine-learning-icon-artificial-intelligence-smart-machine-logo-template-illustration-free-vector.jpg" width="150" alt="ML Logo" />
 
 # MACHINE_LEARNING
 
