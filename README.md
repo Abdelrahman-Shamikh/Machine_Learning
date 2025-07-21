@@ -7,16 +7,13 @@
 
 # MACHINE_LEARNING
 
-<em></em>
+<em>A collection of machine learning assignments and projects for learning and practice.</em>
 
 <!-- BADGES -->
-<!-- local repository, no metadata badges. -->
-
-<em>Built with the tools and technologies:</em>
-
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?style=default&logo=JavaScript&logoColor=black" alt="JavaScript">
-<img src="https://img.shields.io/badge/Python-3776AB.svg?style=default&logo=Python&logoColor=white" alt="Python">
-<img src="https://img.shields.io/badge/TypeScript-3178C6.svg?style=default&logo=TypeScript&logoColor=white" alt="TypeScript">
+<em>Built with the tools and technologies:</em><br>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?style=flat&logo=JavaScript&logoColor=black" alt="JavaScript">
+<img src="https://img.shields.io/badge/Python-3776AB.svg?style=flat&logo=Python&logoColor=white" alt="Python">
+<img src="https://img.shields.io/badge/TypeScript-3178C6.svg?style=flat&logo=TypeScript&logoColor=white" alt="TypeScript">
 
 </div>
 <br>
@@ -25,16 +22,15 @@
 
 ## Table of Contents
 
-- [Table of Contents](#table-of-contents)
 - [Overview](#overview)
 - [Features](#features)
 - [Project Structure](#project-structure)
-    - [Project Index](#project-index)
+  - [Project Index](#project-index)
 - [Getting Started](#getting-started)
-    - [Prerequisites](#prerequisites)
-    - [Installation](#installation)
-    - [Usage](#usage)
-    - [Testing](#testing)
+  - [Prerequisites](#prerequisites)
+  - [Installation](#installation)
+  - [Usage](#usage)
+  - [Testing](#testing)
 - [Roadmap](#roadmap)
 - [Contributing](#contributing)
 - [License](#license)
@@ -44,16 +40,18 @@
 
 ## Overview
 
-
+This repository contains assignments and projects aimed at learning and applying various machine learning techniques. It includes Python scripts, Jupyter notebooks, datasets, and presentation slides to facilitate hands-on practice.
 
 ---
 
 ## Features
 
-<code>❯ REPLACE-ME</code>
+- Implementations of multiple regression models, SVM kernels, and preprocessing techniques.
+- Detailed assignments and projects organized by lab and milestone.
+- Support files such as datasets and presentations.
+- Use of Python, JavaScript, and TypeScript in different parts of the project.
 
 ---
-
 ## Project Structure
 
 ```sh
