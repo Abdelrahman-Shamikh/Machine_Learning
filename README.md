@@ -3,7 +3,7 @@
 <!-- HEADER STYLE: CLASSIC -->
 <div align="center">
 
-<img src="https://cdn.simpleicons.org/machinelearning/6f42c1" width="120" alt="Machine Learning Logo" />
+<img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Artificial_Intelligence_Logo.svg" width="150" alt="AI Logo" />
 
 # MACHINE_LEARNING
 
@@ -11,10 +11,7 @@
 
 <!-- BADGES -->
 <em>Built with the tools and technologies:</em><br>
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?style=flat&logo=JavaScript&logoColor=black" alt="JavaScript">
 <img src="https://img.shields.io/badge/Python-3776AB.svg?style=flat&logo=Python&logoColor=white" alt="Python">
-<img src="https://img.shields.io/badge/TypeScript-3178C6.svg?style=flat&logo=TypeScript&logoColor=white" alt="TypeScript">
-
 </div>
 <br>
 
