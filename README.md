@@ -3,7 +3,7 @@
 <!-- HEADER STYLE: CLASSIC -->
 <div align="center">
 
-<img src="readmeai/assets/logos/purple.svg" width="30%" style="position: relative; top: 0; right: 0;" alt="Project Logo"/>
+<img src="https://cdn.simpleicons.org/machinelearning/6f42c1" width="120" alt="Machine Learning Logo" />
 
 # MACHINE_LEARNING
 
